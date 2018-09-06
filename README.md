@@ -4,7 +4,9 @@
 ```
 yarn
 ```
+
 2. Run `npm start` to start your local server.
+
 3. Enjoy! :tada:
 
 > Use `npm start` to zip your project.
