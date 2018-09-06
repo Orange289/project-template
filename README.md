@@ -1,6 +1,6 @@
 ## Use it as an initial template for your project
 
-1. Instal necessary dependencies:
+1. Install necessary dependencies:
 ```
 yarn
 ```
